@@ -3,4 +3,4 @@ An API Game
 
 non-std dependencies:
 
- [crow](https://crowcpp.org/master/getting_started/setup/linux/) [aur: `crow`]
+    [crow](https://crowcpp.org/master/getting_started/setup/linux/) [aur: `crow`]
