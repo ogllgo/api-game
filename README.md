@@ -5,7 +5,7 @@ An API Game
 non-std dependencies:
 
 * [crow](https://crowcpp.org/master/getting_started/setup/linux/), no pacman, aur: `crow`
-* [SDL2](https://wiki.libsdl.org/SDL2/Installation), pacman: `sdl2`
+* [SDL2](https://wiki.libsdl.org/SDL2/Installation), pacman: `sdl2`, no aur
 
 ## **Files:**
 
